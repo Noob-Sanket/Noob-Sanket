@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noob-Sanket
 - 👀 I’m interested in combining AI with Web Dev
-- 🌱 I’m currently learning Next JS, Node , AI . 
-- 💞️ I’m looking to collaborate on projects related to full stack development.
+- 🌱 I’m currently learning Next JS, Node js , AI , Blockchain. 
+- 💞️ I’m looking to collaborate on projects related to full stack development,Blockchain, Dapp, AI.
 - 📫 How to reach me email - Thakur.sanket.singh.811@gmail.com, twitter - Thakursaahub 
 
 <!---
